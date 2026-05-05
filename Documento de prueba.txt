@@ -1,3 +1,2 @@
 Hola mundo
-Espero no perder programación
-Estoy jodido en Algebra
+Espero no perder programacion
